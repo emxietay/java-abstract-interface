@@ -1,2 +1,5 @@
-package com.manhnam.object.bank;public class Bank {
+package com.manhnam.object.bank;
+
+public class Bank {
+
 }
